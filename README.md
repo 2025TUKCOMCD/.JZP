@@ -52,3 +52,9 @@
 [최향도](https://github.com/chlgideh)|[김윤승](https://github.com/FluffBeanTofu)|[석민정](https://github.com/minjaon)|[조승연](https://github.com/moanuna)|
 ------|------|------|--------------------------------------|
 Leader, AI Engineer|AI Engineer|Back-end Developer, DevOps|Front-end Developer|
+
+
+# 📅 수행일정
+<p align="center">
+<img width="680" alt="수행일정" src="https://github.com/user-attachments/assets/9fa4a073-a58e-48fa-8456-a5e789184fe2">
+</p>
