@@ -48,9 +48,10 @@
 
 
 # 🙋🏻 Team .JZP 
-
+  
 [최향도](https://github.com/chlgideh)|[김윤승](https://github.com/FluffBeanTofu)|[석민정](https://github.com/minjaon)|[조승연](https://github.com/moanuna)|
 ------|------|------|--------------------------------------|
+![최향도](https://github.com/user-attachments/assets/f225f261-1d71-44db-9e5d-dd4c02b02e24)|![김윤승](https://github.com/user-attachments/assets/730e5aad-1cf5-4197-a27d-20ce35f06c3b)||![조승연](https://github.com/user-attachments/assets/85861e0c-f189-4935-8a8b-4bfe1dbb277d)|
 Leader, AI Engineer|AI Engineer|Back-end Developer, DevOps|Front-end Developer|
 
 
