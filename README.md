@@ -45,7 +45,10 @@
 <img src="https://img.shields.io/badge/figma-5B0BB5?style=for-the-badge&logo=figma&logoColor=white" alt="icon" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="icon" />  <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="icon" /> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="icon" /> 
 </p>
 
-
+# 📅 수행일정
+<p align="center">
+<img width="680" alt="수행일정" src="https://github.com/user-attachments/assets/9fa4a073-a58e-48fa-8456-a5e789184fe2">
+</p>
 
 # 🙋🏻 Team .JZP 
   
@@ -54,8 +57,3 @@
 ![최향도](https://github.com/user-attachments/assets/f225f261-1d71-44db-9e5d-dd4c02b02e24)|![김윤승](https://github.com/user-attachments/assets/730e5aad-1cf5-4197-a27d-20ce35f06c3b)|![석민정](https://github.com/user-attachments/assets/beafec53-9742-4ef2-9d45-f42f32fb5bc7)|![조승연](https://github.com/user-attachments/assets/85861e0c-f189-4935-8a8b-4bfe1dbb277d)|
 Leader, AI Engineer|AI Engineer|Back-end Developer, DevOps|Front-end Developer|
 
-
-# 📅 수행일정
-<p align="center">
-<img width="680" alt="수행일정" src="https://github.com/user-attachments/assets/9fa4a073-a58e-48fa-8456-a5e789184fe2">
-</p>
